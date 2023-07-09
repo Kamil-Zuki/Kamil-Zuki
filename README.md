@@ -17,8 +17,8 @@ In general worked with monolitic, microservice. Big part of my activities is com
 ## 🛠 Technical Stack
 *   C#;
 *   SQL Server, PostgreSQL;
-*   EF
-*   ASP.Net
-*   Git
-*   Docker
-*   RabbitMq
+*   EF;
+*   ASP.Net;
+*   Git;
+*   Docker;
+*   RabbitMq.
