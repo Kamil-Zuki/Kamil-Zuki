@@ -1,5 +1,5 @@
 # Hi, I'm Kamil 👋
-Software Engineer with more than 1.5 years of commertial experience. I have good knowledge in backend development on C#.
+Software Engineer with more than 1.6 years of commertial experience. I have good knowledge in backend development on C#.
 In general worked with monolitic, microservice. Big part of my activities is commercial.
 
 <p align='center'>
