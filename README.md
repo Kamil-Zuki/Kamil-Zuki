@@ -10,6 +10,7 @@ My technical expertise includes mastery in the following areas:
 - Git
 - Docker
 - RabbitMQ
+- gRPC
 
 ## 🔗 Connect with Me
 - LinkedIn: [linkedin.com/in/kamil-karatov-4ba940279](https://www.linkedin.com/in/kamil-karatov-4ba940279/)
