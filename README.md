@@ -4,9 +4,9 @@ As a dedicated Software Engineer, I possess over 2 years of hands-on experience 
 ## 🛠 Technical Proficiency
 My technical expertise includes mastery in the following areas:
 - C#, Js, HTML, CSS
-- SQL Server, PostgreSQL
+- SQL Server, PostgreSQL, Redis
 - Entity Framework
-- ASP.Net, Blazor
+- ASP.Net, Blazor, Vue Js
 - Git
 - Docker
 - RabbitMQ
