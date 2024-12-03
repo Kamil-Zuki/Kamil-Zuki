@@ -1,4 +1,4 @@
-# Nice day 
+# Good day 
 As a dedicated Software Engineer, I possess over 2 years of hands-on experience specializing in web programming.
 
 ## 🛠 Technical Proficiency
@@ -13,7 +13,7 @@ My technical expertise includes mastery in the following areas:
 - gRPC
 
 ## 🔗 Connect with Me
-- LinkedIn: [linkedin.com/in/kamil-karatov-4ba940279](https://www.linkedin.com/in/kamil-karatov-4ba940279/)
+- LinkedIn: [linkedin.com/in/kamil-karatov-4ba940279](https://www.linkedin.com/in/kamil-karatov/)
 - Telegram: [t.me/LukaGtta](https://t.me/LukaGtta)
 - Email: karatov7@gmail.com
 
