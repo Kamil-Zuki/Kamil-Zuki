@@ -13,7 +13,7 @@ My technical expertise includes mastery in the following areas:
 - gRPC
 
 ## 🔗 Connect with Me
-- LinkedIn: [linkedin.com/in/kamil-karatov-4ba940279](https://www.linkedin.com/in/kamil-karatov/)
+- LinkedIn: [linkedin.com/in/kamil-karatov](https://www.linkedin.com/in/kamil-karatov/)
 - Telegram: [t.me/LukaGtta](https://t.me/LukaGtta)
 - Email: karatov7@gmail.com
 - Website: https://kamil-zuki.github.io/portfolio/
