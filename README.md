@@ -6,7 +6,7 @@ My technical expertise includes mastery in the following areas:
 - C#, Js, HTML, CSS
 - SQL Server, PostgreSQL, Redis
 - Entity Framework
-- ASP.Net, Blazor, Vue Js
+- ASP.Net, Blazor
 - Git
 - Docker
 - RabbitMQ
@@ -16,4 +16,4 @@ My technical expertise includes mastery in the following areas:
 - LinkedIn: [linkedin.com/in/kamil-karatov-4ba940279](https://www.linkedin.com/in/kamil-karatov/)
 - Telegram: [t.me/LukaGtta](https://t.me/LukaGtta)
 - Email: karatov7@gmail.com
-
+- Website: https://kamil-zuki.github.io/portfolio/
