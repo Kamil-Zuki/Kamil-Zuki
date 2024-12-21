@@ -16,4 +16,7 @@ My technical expertise includes mastery in the following areas:
 - LinkedIn: [linkedin.com/in/kamil-karatov](https://www.linkedin.com/in/kamil-karatov/)
 - Telegram: [t.me/LukaGtta](https://t.me/LukaGtta)
 - Email: karatov7@gmail.com
-- Website: https://kamil-zuki.github.io/portfolio/
+
+Examples:
+- Porfolio Website: https://kamil-zuki.github.io/portfolio/
+- Landing page Website: https://kamil-zuki.github.io/landing-page/
