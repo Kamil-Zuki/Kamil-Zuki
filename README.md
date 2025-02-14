@@ -1,4 +1,4 @@
-# Good day 
+# Nice day 
 As a dedicated Software Engineer, I possess over 3 years of hands-on experience specializing in web programming.
 
 ## 🛠 Technical Proficiency
