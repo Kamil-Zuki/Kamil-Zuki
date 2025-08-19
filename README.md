@@ -3,10 +3,10 @@ As a dedicated Software Engineer, I possess over 3 years of hands-on experience 
 
 ## 🛠 Technical Proficiency
 My technical expertise includes mastery in the following areas:
-- C#, Js, HTML, CSS
+- C#, Js/Ts, HTML, CSS
 - SQL Server, PostgreSQL, Redis
 - Entity Framework
-- ASP.Net, Blazor
+- ASP.Net, Blazor, NextJs
 - Git
 - Docker
 - RabbitMQ
@@ -17,6 +17,3 @@ My technical expertise includes mastery in the following areas:
 - Telegram: [t.me/LukaGtta](https://t.me/LukaGtta)
 - Email: karatov7@gmail.com
 
-Examples:
-- Porfolio Website: https://kamil-zuki.github.io/portfolio/
-- Landing page Website: https://kamil-zuki.github.io/landing-page/
