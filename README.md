@@ -6,7 +6,7 @@ My technical expertise includes mastery in the following areas:
 - C#, Js/Ts, HTML, CSS
 - SQL Server, PostgreSQL, Redis
 - Entity Framework
-- ASP.Net, Blazor, NextJs
+- ASP.Net, NextJs
 - Git
 - Docker
 - RabbitMQ
